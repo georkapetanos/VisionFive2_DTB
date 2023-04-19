@@ -7,4 +7,4 @@
 
 #### Other changes
 
-* Change ack led default trigger to "none", in order to avoid contant blinking
+* Change ack led default trigger to "none", in order to avoid constant blinking
